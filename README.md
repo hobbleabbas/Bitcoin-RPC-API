@@ -197,3 +197,4 @@ To deploy yourself:
 - Recommended: Currently passwords are stored in plain text for speed, I would recommend hashing it
 - Create a .env file with your config and DB details (see .env.example)
 
+Fork this repository as a repl: https://replit.com/@hobbleabbas/Bitcoin-RPC-API#main.py
